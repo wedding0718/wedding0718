@@ -477,6 +477,7 @@ a {
   color: var(--color-white);
   padding: 0 var(--spacing-md) var(--spacing-lg);
   width: 100%;
+ transform: translateY(-60px);
 }
 
 .hero__label {
